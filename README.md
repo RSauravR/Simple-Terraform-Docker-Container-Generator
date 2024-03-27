@@ -18,8 +18,8 @@ Follow these steps to execute the Terraform configuration:
    terraform init
    terraform plan
    terraform apply
+![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/3f21aa95-0d36-44e5-af23-7ff38c0ffdb1)
+![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/ee1f4c33-e733-46fc-a930-7366bf9e9456)
+![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/a448aa69-0ea1-4b1b-9411-2662e49a33bd)
+![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/60dec7f5-2f60-48ea-bec7-f7fd39fbe7ed)
 
-![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/90b4a472-a8c1-4b28-b1da-67ab21d3c0bc)
-![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/74e9fff4-4e54-48b5-903a-18b794e97dd7)
-![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/52e7af4f-aa25-48f2-8b8a-1a29a8d1ee0d)
-![image](https://github.com/RSauravR/Terraform-Docker-Container-Generator/assets/121216190/b4fd4e9f-e6e1-4265-bbc2-6315c5e1868a)
